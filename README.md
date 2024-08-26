@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🤔 I’m a beginner;
+- 🤔 I’m currently learning LLM, NLP;
 - 🔭 I’m currently a PhD student at Harbin Institute of Technology;
 - 📫 E-mail: zuli_edu@outlook.com;
 
