@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🤔 I’m currently learning LLM, NLP;
-- 🔭 I’m currently a PhD student at Harbin Institute of Technology;
+- 🔭 I’m currently a Ph.D. Candidate at Harbin Institute of Technology;
 - 📫 E-mail: zuli_edu@outlook.com;
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=zulihit)
