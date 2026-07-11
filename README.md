@@ -1,6 +1,5 @@
 ### Hi there 👋
 - 🤔 I’m currently learning LLM, NLP;
-- 🔭 I’m currently a Ph.D. Candidate at Harbin Institute of Technology;
 - ✨ [My homepage](https://zulihit.github.io/)
 
 <!--
